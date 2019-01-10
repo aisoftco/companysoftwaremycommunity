@@ -68,13 +68,13 @@ article {
 }
 
 .article-img {
-height: 200px;
+height: 250px;
 width: 100%;
 position:relative;
 left:0px;
 margin-top:-50px;
-z-index: 30;
-padding: 8px;
+z-index: 3;
+padding: 0px 5px 0px 20px ;
 }
 
 .article-title {
