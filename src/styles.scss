@@ -1,0 +1,21 @@
+body {
+  background: rgba(54, 71, 109, 1);
+  background: -moz-linear-gradient(left, rgba(54, 71, 109, 1) 35%, rgba(54, 71, 109, 1) 51%, rgba(62, 85, 126, 1) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(35%, rgba(54, 71, 109, 1)), color-stop(51%, rgba(54, 71, 109, 1)), color-stop(100%, rgba(62, 85, 126, 1)));
+  background: -webkit-linear-gradient(left, rgba(54, 71, 109, 1) 35%, rgba(54, 71, 109, 1) 51%, rgba(62, 85, 126, 1) 100%);
+  background: -o-linear-gradient(left, rgba(54, 71, 109, 1) 35%, rgba(54, 71, 109, 1) 51%, rgba(62, 85, 126, 1) 100%);
+  background: -ms-linear-gradient(left, rgba(54, 71, 109, 1) 35%, rgba(54, 71, 109, 1) 51%, rgba(62, 85, 126, 1) 100%);
+  background: linear-gradient(to right, rgba(54, 71, 109, 1) 35%, rgba(54, 71, 109, 1) 51%, rgba(62, 85, 126, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#36476d', endColorstr='#3e557e', GradientType=1 );
+}
+
+h1
+{
+	color: #FFF;
+}
+
+body, html {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0 auto;
+  width: 100%;
+}
